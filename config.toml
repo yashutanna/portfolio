@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Full Stack Developer, Developer Experience Engineer"
     description = "Yashu Tanna's bio site"
     keywords = "blog,developer,experience,engineer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "avatar.png"
 
     # footercontent = "Enter a text here."
 
@@ -45,6 +45,10 @@ disqusShortname = "yourdiscussshortname"
     name = "Facebook"
     icon = "fab fa-facebook fa-2x"
     weight = 3
+    url = "https://www.facebook.com/tanna.yashu"
+
+[[params.skills]]
+    src = "node.png"
     url = "https://www.facebook.com/tanna.yashu"
 
 # Menu links

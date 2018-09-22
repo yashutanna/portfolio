@@ -1,0 +1,44 @@
+
+
+/* @media (min-width: 568px) {
+  
+  img.badge{
+    margin: 4px;
+    width: 29%;
+  }
+  
+} */
+/* @media (min-width: 1280) {
+  
+  img.badge{
+    margin: 2%;
+    width: 9%;
+  }  
+  
+} */
+
+.badge-container{
+  text-align: center;
+}
+.badge-container ul{
+  list-style: none;
+  padding: 0;
+}
+
+.badge-container ul li{
+  display: inline;
+}
+
+@media (max-width: 568px) {
+  .badge-container ul li a img.badge{
+    width: 29%;
+    margin: 4px;
+  }
+}
+
+@media (min-width: 720px) {
+  .badge-container ul li a img.badge{
+    width: 10%;
+    margin: 4px;
+  }
+}

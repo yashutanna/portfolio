@@ -1,0 +1,11 @@
+<section class="container centered">
+  <div class="skills">
+    {{ with .Site.Params.skills }}
+    <ul>
+      {{ range sort .}}
+        <li><img src="{{.src}}"><a href="{{ .url }}" target="_blank"></a><img></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</section>

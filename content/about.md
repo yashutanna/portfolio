@@ -1,32 +1,27 @@
 +++
-title = "About Yashu"
+title = "About me"
 slug = "about"
 +++
 
-I am a software engineer that has a passion for people, technology and businesses where the 2 meet. 
+I am a software engineer that has a passion for people, technology, and businesses where the 2 meet. 
+
+## How I work
+
+I enjoy working through complex problems by boiling them down to their core components to understand the underlying problem to be solved.
+
+Bringing my extroverted, ideative, and competitive, personality into my work and allows me to bring concepts to life through rapid prototyping of malleable thought processes.
+
+I interact with engineers, designers, product specialists and help align all team members to a common goal by integrating into the core team.
 
 
-It makes use of a variety of open source projects including:
+## What I work with
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+{{< badge-container >}}
+  {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+  {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+  {{% image-badge src="spring.png" url="https://spring.io/" %}}
+  {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
+  {{% image-badge src="docker.png" url="https://www.docker.com" %}}
+  {{% image-badge src="gitlab.png" url="https://about.gitlab.comaw" %}}
+  {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
+{{</ badge-container >}}
