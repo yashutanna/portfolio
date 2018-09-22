@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313"
+baseurl = "/"
 title = "Yashu"
 theme = "coder"
 languagecode = "en"
