@@ -19,6 +19,7 @@ I interact with engineers, designers, product specialists and help align all tea
 {{< badge-container >}}
   {{% image-badge src="node.png" url="https://nodejs.org/" %}}
   {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+  {{% image-badge src="angular.png" url="https://angular.io/" %}}
   {{% image-badge src="spring.png" url="https://spring.io/" %}}
   {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
   {{% image-badge src="docker.png" url="https://www.docker.com" %}}

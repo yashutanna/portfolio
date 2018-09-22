@@ -12,6 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
+dateFormat="MMM YYYY"
 
 [params]
     author = "Yashu Tanna"
@@ -53,9 +54,9 @@ disqusShortname = "yourdiscussshortname"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Projects"
     weight = 1
-    url  = "/posts/"
+    url  = "/projects/"
 [[menu.main]]
     name = "About"
     weight = 2
