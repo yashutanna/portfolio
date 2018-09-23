@@ -12,7 +12,7 @@ nav.navigation{
   background-color: white;
 }
 
-@media (max-width: 568px) {
+@media (max-width: 320px) {
   .badge-container ul li a img.badge{
     background-color: black;
     padding: 16px;
@@ -24,7 +24,18 @@ nav.navigation{
   }
 }
 
-@media (min-width: 720px) {
+@media (min-width: 321px) {
+  .badge-container ul li a img.badge{
+    background-color: black;
+    padding: 16px;
+    border-radius: 33px;
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+    background: radial-gradient(circle at 56px 137px, #fff, #eee)
+  }
+}
+@media (min-width: 322px) {
   .badge-container ul li a img.badge{
     background-color: black;
     padding: 16px;
@@ -32,7 +43,7 @@ nav.navigation{
     height: 90px;
     width: 90px;
     margin: 5px;
-    background: radial-gradient(circle at 56px 137px, #fff, #eee)
+    background: radial-gradient(circle at 56px 137px, #fff, #eee);
   }
 }
 
