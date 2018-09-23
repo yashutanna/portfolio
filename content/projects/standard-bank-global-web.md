@@ -7,10 +7,15 @@ categories = []
 logo = "standard-bank.png"
 +++
 ## What we did
+Build the newest web version of the banking platform for the universal client to the bank
 
 ## Why we did it
+As the organisation embraced new ways of experiencing a digital transformation, this new platform initiative, Global web, was set to encompass applications that are being developed accross the organisation for different personas ranging from bank employees to clients' clients. 
 
 ## How else was there
+* [Ryan Krull](https://www.linkedin.com/in/ryankrull-79/)
+* [Dean de Agrela](https://www.linkedin.com/in/dean-de-agrela-42975795/)
+* [Jonothan Dudley](https://www.linkedin.com/in/jonathan-dudley-48717649/)
 
 ## What we used
 
