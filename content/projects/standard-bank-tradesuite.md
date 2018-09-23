@@ -10,10 +10,7 @@ logo = "standard-bank.png"
 
 ## Why we did it
 
-## Who else was there
-
 ## Which tech was used
-
 {{< badge-container >}}
   {{% image-badge src="node.png" url="https://nodejs.org/" %}}
   {{% image-badge src="react.png" url="https://reactjs.org/" %}}
@@ -22,3 +19,5 @@ logo = "standard-bank.png"
   {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
   {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
 {{</ badge-container >}}
+
+## Who else was there

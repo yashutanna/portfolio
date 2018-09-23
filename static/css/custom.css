@@ -12,15 +12,25 @@
 
 @media (max-width: 568px) {
   .badge-container ul li a img.badge{
-    width: 29%;
-    margin: 4px;
+    background-color: black;
+    padding: 16px;
+    border-radius: 33px;
+    height: 90px;
+    width: 90px;
+    margin: 0px;
+    background: radial-gradient(circle at 56px 137px, #fff, #eee)
   }
 }
 
 @media (min-width: 720px) {
   .badge-container ul li a img.badge{
-    width: 10%;
-    margin: 4px;
+    background-color: black;
+    padding: 16px;
+    border-radius: 33px;
+    height: 90px;
+    width: 90px;
+    margin: 5px;
+    background: radial-gradient(circle at 56px 137px, #fff, #eee)
   }
 }
 

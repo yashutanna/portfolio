@@ -16,9 +16,6 @@ The insurance market in South Africa did not provide an easy way for a lower- to
 
 Simply also provides a quick an easy way for Employers to purchase life cover for their Domestic workers
 
-## Who else was there
-* [Pieter Koornhof](https://www.linkedin.com/in/pieterkoornhof/)
-
 ## Which tech was used
 
 {{< badge-container >}}
@@ -28,3 +25,6 @@ Simply also provides a quick an easy way for Employers to purchase life cover fo
   {{% image-badge src="docker.png" url="https://www.docker.com" %}}
   {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
 {{</ badge-container >}}
+
+## Who else was there
+* [Pieter Koornhof](https://www.linkedin.com/in/pieterkoornhof/)
