@@ -14,15 +14,17 @@ Bringing my extroverted, ideative, and competitive personality into my work allo
 I interact with engineers, designers, product specialists and help align all team members to a common goal by integrating into the core team.
 
 
-## What I work with
+## What I've worked with
 
 {{< badge-container >}}
   {{% image-badge src="node.png" url="https://nodejs.org/" %}}
   {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+  {{% image-badge src="redux.png" url="https://redux.js.org/" %}}
   {{% image-badge src="angular.png" url="https://angular.io/" %}}
   {{% image-badge src="spring.png" url="https://spring.io/" %}}
   {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
   {{% image-badge src="docker.png" url="https://www.docker.com" %}}
+  {{% image-badge src="chef.png" url="https://kitchen.ci/" %}}
   {{% image-badge src="gitlab.png" url="https://about.gitlab.comaw" %}}
   {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
   {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
