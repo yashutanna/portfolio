@@ -1,4 +1,6 @@
-.badge-container ul{
+.badge-list ul,
+.badge-container ul
+{
   list-style: none;
   padding: 0;
 }
@@ -7,43 +9,70 @@
   display: inline;
 }
 
+.badge-list ul li{
+  width: 100%;
+  background-color: #f3f3f3;
+  margin: 5px 0;
+  padding-top: 10px;
+  border-radius: 25px;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.badge-list ul li .image-badge-detail{
+  float: right;
+  width: 88%;
+  padding-left: 1%;
+}
+
+.badge-list ul li .image-badge-detail p,
+.badge-list ul li .image-badge-detail h6{
+  margin: 0 auto;
+}
+
 nav.navigation{
   position: fixed;
   background-color: white;
 }
 
+.badge-list ul li a img.badge,
+.badge-container ul li a img.badge
+{
+  background-color: black;
+  padding: 16px;
+  border-radius: 33px;
+  height: 90px;
+  width: 90px;
+  margin: 0px;
+  background: radial-gradient(circle at 56px 137px, #fff, #eee)
+}
+
 @media (max-width: 320px) {
-  .badge-container ul li a img.badge{
-    background-color: black;
-    padding: 16px;
-    border-radius: 33px;
+  .badge-list ul li a img.badge,
+  .badge-container ul li a img.badge
+  {
     height: 90px;
     width: 90px;
     margin: 0px;
-    background: radial-gradient(circle at 56px 137px, #fff, #eee)
   }
 }
 
 @media (min-width: 321px) {
-  .badge-container ul li a img.badge{
-    background-color: black;
-    padding: 16px;
-    border-radius: 33px;
+  .badge-list ul li a img.badge,
+  .badge-container ul li a img.badge
+  {
     height: 70px;
     width: 70px;
     margin: 5px;
-    background: radial-gradient(circle at 56px 137px, #fff, #eee)
   }
 }
 @media (min-width: 322px) {
-  .badge-container ul li a img.badge{
-    background-color: black;
-    padding: 16px;
-    border-radius: 33px;
+  .badge-list ul li a img.badge,
+  .badge-container ul li a img.badge
+  {
     height: 90px;
     width: 90px;
     margin: 5px;
-    background: radial-gradient(circle at 56px 137px, #fff, #eee);
   }
 }
 

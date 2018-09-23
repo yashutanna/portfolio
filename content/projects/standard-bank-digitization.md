@@ -15,9 +15,15 @@ With a proliferated view of a client in different product streams within a huge 
 ## Which tech was used
 
 {{< badge-container >}}
-  {{% image-badge src="node.png" url="https://nodejs.org/" %}}
-  {{% image-badge src="react.png" url="https://reactjs.org/" %}}
-  {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
+  {{< list-item >}}
+    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
+  {{</ list-item >}}
 {{</ badge-container >}}
 
 ## Who else was there

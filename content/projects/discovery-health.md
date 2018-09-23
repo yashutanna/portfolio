@@ -21,9 +21,15 @@ Health records include screening data such as blood presure, BMI, etc; chronic c
 ## Which tech was used
 
 {{< badge-container >}}
-  {{% image-badge src="angular.png" url="https://angular.io/" %}}
-  {{% image-badge src="spring.png" url="https://spring.io/" %}}
-  {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
+  {{< list-item >}}
+    {{% image-badge src="angular.png" url="https://angular.io/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="spring.png" url="https://spring.io/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
+  {{</ list-item >}}
 {{</ badge-container >}}
 
 ## Who else was there

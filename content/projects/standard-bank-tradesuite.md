@@ -18,12 +18,24 @@ In this extremely complex and distributed environment the flow of information is
 
 ## Which tech was used
 {{< badge-container >}}
-  {{% image-badge src="node.png" url="https://nodejs.org/" %}}
-  {{% image-badge src="react.png" url="https://reactjs.org/" %}}
-  {{% image-badge src="spring.png" url="https://spring.io/" %}}
-  {{% image-badge src="docker.png" url="https://www.docker.com" %}}
-  {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
-  {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
+  {{< list-item >}}
+    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="spring.png" url="https://spring.io/" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="docker.png" url="https://www.docker.com" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
+  {{</ list-item >}}
+  {{< list-item >}}
+    {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
+  {{</ list-item >}}
 {{</ badge-container >}}
 
 ## Who else was there
