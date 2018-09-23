@@ -19,6 +19,6 @@ logo = "standard-bank.png"
   {{% image-badge src="react.png" url="https://reactjs.org/" %}}
   {{% image-badge src="spring.png" url="https://spring.io/" %}}
   {{% image-badge src="docker.png" url="https://www.docker.com" %}}
-  {{% image-badge src="gitlab.png" url="https://about.gitlab.comaw" %}}
+  {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
   {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
 {{</ badge-container >}}
