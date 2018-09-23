@@ -28,4 +28,5 @@ I interact with engineers, designers, product specialists and help align all tea
   {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
   {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
   {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
+  {{% image-badge src="google-cloud.png" url="https://cloud.google.com/" %}}
 {{</ badge-container >}}
