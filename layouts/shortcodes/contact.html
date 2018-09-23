@@ -1,5 +1,5 @@
-<section>
-    <form class="form-style-7" netlify>
+<section class="contact-section">
+    <form class="form-style-7" netlify target="_self">
         <ul>
             <li>
                 <label for="name">Name</label>
@@ -21,9 +21,27 @@
                 <textarea id="topic" rows="10" cols="70" name="topic"></textarea>
                 <span>Message</span>
             </li>
-            <li>
-                <input type="submit" value="Submit" >
-            </li>
+            <div class="msg-error error align-left"></div>
+            <div id="recaptcha" class="g-recaptcha" data-sitekey="6LdruXEUAAAAABEs3QMDpJYaIa27eQOZCkeygyK9"></div>
         </ul>
     </form>
+    <button id="btn-validate">Submit</button>
 </section>
+
+<script>
+    $('#btn-validate').click(function(){
+        var $captcha = $( '#recaptcha' ),
+            response = grecaptcha.getResponse();
+        
+        if (response.length === 0) {
+            $( '.msg-error').text( "reCAPTCHA is mandatory" );
+            if( !$captcha.hasClass( "error" ) ){
+                $captcha.addClass( "error" );
+            }
+        } else {
+            $( '.msg-error' ).text('');
+            $captcha.removeClass( "error" );
+            $("form").submit();
+        }
+    })
+</script>
