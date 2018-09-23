@@ -16,7 +16,7 @@ The insurance market in South Africa did not provide an easy way for a lower- to
 
 Simply also provides a quick an easy way for Employers to purchase life cover for their Domestic workers
 
-## How else was there
+## Who else was there
 * [Pieter Koornhof](https://www.linkedin.com/in/pieterkoornhof/)
 
 ## What we used
