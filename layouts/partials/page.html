@@ -1,0 +1,13 @@
+<section class="container page">
+  <article>
+    <header>
+      <h1>{{ .Title }}
+        {{ if .Params.hasUrl}}
+          <a href="{{ .Params.projectUrl }}" target="_blank"><i class="fa fa-link fa-2x"></i></a>
+        {{ end }}
+      </h1>
+    </header>
+
+    {{ .Content }}
+  </article>
+</section>

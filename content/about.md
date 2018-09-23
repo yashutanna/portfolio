@@ -3,7 +3,7 @@ title = "About me"
 slug = "about"
 +++
 
-I am a software engineer that has a passion for people, technology, and businesses where the 2 meet. 
+I am a software engineer that has a passion for people, technology, and businesses where the two meet. 
 
 ## How I work
 

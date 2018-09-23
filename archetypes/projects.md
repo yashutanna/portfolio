@@ -6,4 +6,6 @@ slug = ""
 tags = []
 categories = []
 logo = ""
+hasUrl = false
+projectUrl = ""
 +++

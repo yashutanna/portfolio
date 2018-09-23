@@ -38,3 +38,7 @@ li.list-item img.list-logo{
 li.list-item a{
   padding-left: 35px;
 }
+
+header i.fa-link{
+  font-size: 28px;
+}

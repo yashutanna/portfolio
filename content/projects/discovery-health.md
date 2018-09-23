@@ -5,6 +5,8 @@ slug = "Discovery Health"
 tags = []
 categories = []
 logo = "discovery.png"
+hasUrl = true
+projectUrl = "https://www.discovery.co.za/medical-aid/health-id"
 +++
 
 ## What we did
@@ -18,7 +20,7 @@ Health records include screening data such as blood presure, BMI, etc; chronic c
 ## How else was there
 * [Frederick Van Staden](https://www.linkedin.com/in/frederickvanstaden/)
 * [Timothy Potgieter](https://www.linkedin.com/in/timothy-potgieter-0bb591119/)
-* [Liezel Koornhof](https://www.linkedin.com/in/liezl-koornhof-107a4060/)
+* [Liezl Koornhof](https://www.linkedin.com/in/liezl-koornhof-107a4060/)
 
 ## What we used
 
