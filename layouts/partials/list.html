@@ -2,8 +2,10 @@
   <h1 class="title">{{ .Title }}</h1>
   <ul>
     {{ range .Paginator.Pages }}
-    <li>
-      <span>{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span><a href="{{ .URL }}">{{ .Title }}</a>
+    <li class="list-item">
+        <span>{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+        <img class="list-logo" src='{{ .Params.logo }}'/>
+        <a href="{{ .URL }}">{{ .Title }}</a>
     </li>
     {{ end }}
   </ul>

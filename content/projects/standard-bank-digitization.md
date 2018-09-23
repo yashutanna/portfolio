@@ -4,9 +4,10 @@ title = "Standard Bank - Digitization"
 slug = "digitization" 
 tags = []
 categories = []
+logo = "standard-bank.png"
 +++
 ## What we did
 
 ## Why we did it
 
-## References
+## How else was there

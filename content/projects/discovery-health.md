@@ -1,12 +1,14 @@
 +++ 
 date = "2015-01-01"
-title = "Health ID"
+title = "Discovery Health - Health ID"
 slug = "Discovery Health" 
 tags = []
 categories = []
+logo = "discovery.png"
 +++
+
 ## What we did
 
 ## Why we did it
 
-## References
+## How else was there

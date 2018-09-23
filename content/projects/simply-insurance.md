@@ -4,9 +4,10 @@ title = "Simply Insurance"
 slug = "simply" 
 tags = []
 categories = []
+logo = "entelect.png"
 +++
 ## What we did
 
 ## Why we did it
 
-## References
+## How else was there

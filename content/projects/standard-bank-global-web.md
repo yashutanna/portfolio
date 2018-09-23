@@ -4,9 +4,10 @@ title = "Standard Bank - Global Web"
 slug = "global-web" 
 tags = []
 categories = []
+logo = "standard-bank.png"
 +++
 ## What we did
 
 ## Why we did it
 
-## References
+## How else was there
