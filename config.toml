@@ -61,4 +61,8 @@ dateFormat="MMM YYYY"
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Contact"
+    weight = 3
+    url = "/contact/"
 
