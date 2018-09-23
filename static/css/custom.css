@@ -13,16 +13,15 @@
   width: 100%;
   background-color: #f3f3f3;
   margin: 5px 0;
-  padding-top: 10px;
+  padding: 5px;
   border-radius: 25px;
   flex-direction: column;
   align-content: space-between;
+  display: -webkit-inline-box;
 }
 
 .badge-list ul li .image-badge-detail{
-  float: right;
-  width: 88%;
-  padding-left: 1%;
+  width: calc(100% - 115px);
 }
 
 .badge-list ul li .image-badge-detail p,
@@ -35,6 +34,10 @@ nav.navigation{
   background-color: white;
 }
 
+.badge-list ul li a
+{
+  display: inline-block;
+}
 .badge-list ul li a img.badge,
 .badge-container ul li a img.badge
 {
