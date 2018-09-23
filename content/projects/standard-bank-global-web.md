@@ -17,7 +17,7 @@ As the organisation embraced new ways of experiencing a digital transformation, 
 * [Dean de Agrela](https://www.linkedin.com/in/dean-de-agrela-42975795/)
 * [Jonothan Dudley](https://www.linkedin.com/in/jonathan-dudley-48717649/)
 
-## What we used
+## Which tech was used
 
 {{< badge-container >}}
   {{% image-badge src="node.png" url="https://nodejs.org/" %}}

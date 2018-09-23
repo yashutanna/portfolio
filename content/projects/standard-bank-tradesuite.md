@@ -12,7 +12,7 @@ logo = "standard-bank.png"
 
 ## Who else was there
 
-## What we used
+## Which tech was used
 
 {{< badge-container >}}
   {{% image-badge src="node.png" url="https://nodejs.org/" %}}

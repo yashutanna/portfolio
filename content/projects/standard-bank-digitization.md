@@ -16,7 +16,7 @@ With a proliferated view of a client in different product streams within a huge 
 * [James Nicolson](https://www.linkedin.com/in/james-nicolson-2aa982/)
 * [Santosh Komal](https://www.linkedin.com/in/santosh-komal-b1ba9712/)
 
-## What we used
+## Which tech was used
 
 {{< badge-container >}}
   {{% image-badge src="node.png" url="https://nodejs.org/" %}}

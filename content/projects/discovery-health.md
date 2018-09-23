@@ -22,7 +22,7 @@ Health records include screening data such as blood presure, BMI, etc; chronic c
 * [Timothy Potgieter](https://www.linkedin.com/in/timothy-potgieter-0bb591119/)
 * [Liezl Koornhof](https://www.linkedin.com/in/liezl-koornhof-107a4060/)
 
-## What we used
+## Which tech was used
 
 {{< badge-container >}}
   {{% image-badge src="angular.png" url="https://angular.io/" %}}

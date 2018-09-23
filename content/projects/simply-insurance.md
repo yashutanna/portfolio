@@ -19,7 +19,7 @@ Simply also provides a quick an easy way for Employers to purchase life cover fo
 ## Who else was there
 * [Pieter Koornhof](https://www.linkedin.com/in/pieterkoornhof/)
 
-## What we used
+## Which tech was used
 
 {{< badge-container >}}
   {{% image-badge src="react.png" url="https://reactjs.org/" %}}
