@@ -8,10 +8,17 @@ logo = "discovery.png"
 +++
 
 ## What we did
+We built an electronic health tool for Doctors to better manage all their patients' medical information for docture consultations, hospital visits, chronic condition management, etc.
 
 ## Why we did it
+With medical insurance expanding by encomapssing healthcare providers, Discovery Health saw an opportunity to create a patient centric data tool that would allow any Doctor that is on the network and that has been given consent by the patient to retrieve the patients entire electronic health record.
+
+Health records include screening data such as blood presure, BMI, etc; chronic conditions that patients suffer from, as well as modules that allowed doctors and parents a view of how new-born babies compared to the country averages from a growth perspective.
 
 ## How else was there
+* [Frederick Van Staden](https://www.linkedin.com/in/frederickvanstaden/)
+* [Timothy Potgieter](https://www.linkedin.com/in/timothy-potgieter-0bb591119/)
+* [Liezel Koornhof](https://www.linkedin.com/in/liezl-koornhof-107a4060/)
 
 ## What we used
 
