@@ -5,4 +5,5 @@ title = ""
 slug = "" 
 tags = []
 categories = []
+logo = ""
 +++
