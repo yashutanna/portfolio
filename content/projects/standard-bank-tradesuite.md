@@ -27,3 +27,8 @@ In this extremely complex and distributed environment the flow of information is
 {{</ badge-container >}}
 
 ## Who else was there
+* [Wayne Epstein](https://www.linkedin.com/in/wayne-epstein-9930799/)
+* [Nicole Lazarus](https://www.linkedin.com/in/nicole-lazarus-82160072/)
+* [Kevin Holmes](https://www.linkedin.com/in/kevin-holmes-5a202041/)
+* [Karen Dowthwaite](https://www.linkedin.com/in/karen-dowthwaite-729689131/)
+* [James Nicolson](https://www.linkedin.com/in/james-nicolson-2aa982/)
