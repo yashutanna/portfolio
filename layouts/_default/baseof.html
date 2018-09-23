@@ -57,8 +57,9 @@
       integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
       crossorigin="anonymous">
     </script>
-    
+
     {{ .Hugo.Generator }}
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
   </head>
   
   <body class="{{ if .Site.Params.rtl }}rtl{{ end }}">
@@ -74,7 +75,6 @@
     
     {{ template "_internal/google_analytics.html" . }}
     
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
   </body>
   
 </html>
