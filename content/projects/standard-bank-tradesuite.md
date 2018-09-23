@@ -1,14 +1,20 @@
 +++ 
 date = "2017-10-05"
-title = "Standard Bank - Trade suite"
+title = "Standard Bank - Trade Suite"
 slug = "tradesuite" 
 tags = []
 categories = []
 logo = "standard-bank.png"
 +++
 ## What we did
+Built a trade platform that provides a one stop shop for new importers to get an estimate cost of importing a certain product from anywhere in the world. This cost includes the supplier cost, shipping and logistics costs, trade finance costs, bank fees, forex costs, as well as customs and excize costs
+
+This project was treated as a startup. Execution was done "lean start-up" style and them moved into an agile space once we were comfortable that our assumptions and user tests were satisfactory.
 
 ## Why we did it
+Importing goods for any business is a headache. an importer needs to engange with various vendors for different parts fo the transactions while also keeping track of events that may cause a disruption the goods turning to cash. 
+
+In this extremely complex and distributed environment the flow of information is important. Hence a key piece of work is negotiation and prioritization within the orginisation to effectively coordinate efforts to land this project.
 
 ## Which tech was used
 {{< badge-container >}}
