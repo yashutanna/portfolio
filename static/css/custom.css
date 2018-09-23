@@ -47,7 +47,7 @@ li.list-item{
 
 li.list-item img.list-logo{
   width: 25px;
-  position: fixed;
+  position: absolute;
   z-index: -1;
 }
 
