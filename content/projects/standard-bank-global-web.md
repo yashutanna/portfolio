@@ -16,19 +16,19 @@ As the organisation embraced new ways of experiencing a digital transformation, 
 
 {{< badge-container >}}
   {{< list-item >}}
-    {{% image-badge title="NodeJS" src="node.png" url="https://nodejs.org/" %}}
+    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Angular" src="angular.png" url="https://angular.io/" %}}
+    {{% image-badge src="angular.png" url="https://angular.io/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Java" src="java.png" url="https://www.oracle.com/za/java" %}}
+    {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Docker" src="docker.png" url="https://www.docker.com" %}}
+    {{% image-badge src="docker.png" url="https://www.docker.com" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Chef" src="chef.png" url="https://kitchen.ci/" %}}
+    {{% image-badge src="chef.png" url="https://kitchen.ci/" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 

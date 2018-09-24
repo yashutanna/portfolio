@@ -22,13 +22,13 @@ Health records include screening data such as blood presure, BMI, etc; chronic c
 
 {{< badge-container >}}
   {{< list-item >}}
-    {{% image-badge title="Angular" src="angular.png" url="https://angular.io/" %}}
+    {{% image-badge src="angular.png" url="https://angular.io/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Spring" src="spring.png" url="https://spring.io/" %}}
+    {{% image-badge src="spring.png" url="https://spring.io/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Java" src="java.png" url="https://www.oracle.com/za/java" %}}
+    {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 

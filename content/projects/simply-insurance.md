@@ -20,22 +20,22 @@ Simply also provides a quick an easy way for Employers to purchase life cover fo
 
 {{< badge-container >}}
   {{< list-item >}}
-    {{% image-badge title="Redux" src="redux.png" url="https://redux.js.org/" %}}
+    {{% image-badge src="redux.png" url="https://redux.js.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="ReactJS" src="react.png" url="https://reactjs.org/" %}}
+    {{% image-badge src="react.png" url="https://reactjs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="NodeJS" src="node.png" url="https://nodejs.org/" %}}
+    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Docker" src="docker.png" url="https://www.docker.com" %}}
+    {{% image-badge src="docker.png" url="https://www.docker.com" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Gitlab" src="gitlab.png" url="https://about.gitlab.com" %}}
+    {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge title="Google Cloud" src="google-cloud.png" url="https://cloud.google.com/" %}}
+    {{% image-badge src="google-cloud.png" url="https://cloud.google.com/" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 
