@@ -9,7 +9,7 @@ I am a software engineer that has a passion for people, technology, and business
 
 Through a lot of introspection and in an effort to better refine my strenghts I took a few industrial psychological tests that have yielded the following. I believe quite strongly that these speak quite truly of how I gather my energy when working in a team
 
-### Gallups Strengths Finder
+### Gallups Strengths Finder {{% link href="https://www.gallupstrengthscenter.com/" %}}
 {{< badge-list >}}
   {{< list-item >}}
     {{% image-badge src="ideation.png" url="https://leadthroughstrengths.com/ideation/" %}} 
