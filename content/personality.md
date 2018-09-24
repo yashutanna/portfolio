@@ -35,27 +35,27 @@ Through a lot of introspection and in an effort to better refine my strenghts I 
       {{% image-badge src="ent-16.svg" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
       {{% image-badge-detail label="The Debater" details="Extraverted mind, Intuitive energy, Thinking nature, Prospecting Tactics" %}} 
     {{</ list-item >}}
-  {{</ badge-list >}}
-
-{{< badge-list >}}
-  {{< list-item >}}
-    {{% image-badge src="mind.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
-    {{% image-badge-detail label="Mind - Extraverted: 94% Introverted: 6%" details="Extraverted individuals prefer group activities and get energized by social interaction. They tend to be more enthusiastic and more easily excited than introverts" %}} 
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="energy.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
-    {{% image-badge-detail label="Energy - Intuitive: 90% Observant: 10%" details="Intuitive individuals are very imaginative, open-minded and curious. They prefer novelty over stability and focus on hidden meanings and future possibilities." %}} 
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="nature.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
-    {{% image-badge-detail label="Nature - Thinking: 68% Feeling: 32%" details="Thinking individuals focus on objectivity and rationality, prioritizing logic over emotions. They tend to hide their feelings and see efficiency as more important than cooperation" %}} 
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="tactics.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
-    {{% image-badge-detail label="Tactics Judging: 23% Prospecting: 77" details="Prospecting individuals are very good at improvising and spotting opportunities. They tend to be flexible, relaxed nonconformists who prefer keeping their options open" %}} 
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="identity.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
-    {{% image-badge-detail label="Identity Assertive: 44% Turbulent: 56%" details="Turbulent individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic and eager to improve" %}} 
-  {{</ list-item >}}
 {{</ badge-list >}}
+
+> {{< badge-list >}}
+    {{< list-item >}}
+      {{% image-badge src="mind.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+      {{% image-badge-detail label="Mind - Extraverted: 94% Introverted: 6%" details="Extraverted individuals prefer group activities and get energized by social interaction. They tend to be more enthusiastic and more easily excited than introverts" %}} 
+    {{</ list-item >}}
+    {{< list-item >}}
+      {{% image-badge src="energy.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+      {{% image-badge-detail label="Energy - Intuitive: 90% Observant: 10%" details="Intuitive individuals are very imaginative, open-minded and curious. They prefer novelty over stability and focus on hidden meanings and future possibilities." %}} 
+    {{</ list-item >}}
+    {{< list-item >}}
+      {{% image-badge src="nature.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+      {{% image-badge-detail label="Nature - Thinking: 68% Feeling: 32%" details="Thinking individuals focus on objectivity and rationality, prioritizing logic over emotions. They tend to hide their feelings and see efficiency as more important than cooperation" %}} 
+    {{</ list-item >}}
+    {{< list-item >}}
+      {{% image-badge src="tactics.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+      {{% image-badge-detail label="Tactics Judging: 23% Prospecting: 77" details="Prospecting individuals are very good at improvising and spotting opportunities. They tend to be flexible, relaxed nonconformists who prefer keeping their options open" %}} 
+    {{</ list-item >}}
+    {{< list-item >}}
+      {{% image-badge src="identity.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+      {{% image-badge-detail label="Identity Assertive: 44% Turbulent: 56%" details="Turbulent individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic and eager to improve" %}} 
+    {{</ list-item >}}
+  {{</ badge-list >}}
