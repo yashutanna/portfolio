@@ -1,11 +1,7 @@
 +++
-title = "About me"
-slug = "about"
+title = "My personality"
+slug = "personality"
 +++
-
-I am a software engineer that has a passion for people, technology, and businesses where the two meet. 
-
-## My personality
 
 Through a lot of introspection and in an effort to better refine my strenghts I took a few industrial psychological tests that have yielded the following. I believe quite strongly that these speak quite truly of how I gather my energy when working in a team
 
@@ -33,52 +29,33 @@ Through a lot of introspection and in an effort to better refine my strenghts I 
   {{</ list-item >}}
 {{</ badge-list >}}
 
-## How I work
+### 16Personalities {{% link href="https://www.16personalities.com/profiles/55a1646936e3d" %}}
+{{< badge-list >}}
+    {{< list-item >}}
+      {{% image-badge src="ent-16.svg" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+      {{% image-badge-detail label="The Debater" details="Extraverted mind, Intuitive energy, Thinking nature, Prospecting Tactics" %}} 
+    {{</ list-item >}}
+  {{</ badge-list >}}
 
-I enjoy working through complex problems by boiling them down to their core components to understand the underlying problem to be solved.
-
-Bringing my extroverted, ideative, and competitive personality into my work allows me to bring concepts to life through rapid prototyping of malleable thought processes.
-
-I interact with engineers, designers, product specialists and help align all team members to a common goal by integrating into the core team.
-
-
-## Technologies I've worked with
-
-{{< badge-container >}}
+{{< badge-list >}}
   {{< list-item >}}
-    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+    {{% image-badge src="mind.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+    {{% image-badge-detail label="Mind - Extraverted: 94% Introverted: 6%" details="Extraverted individuals prefer group activities and get energized by social interaction. They tend to be more enthusiastic and more easily excited than introverts" %}} 
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+    {{% image-badge src="energy.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+    {{% image-badge-detail label="Energy - Intuitive: 90% Observant: 10%" details="Intuitive individuals are very imaginative, open-minded and curious. They prefer novelty over stability and focus on hidden meanings and future possibilities." %}} 
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="redux.png" url="https://redux.js.org/" %}}
+    {{% image-badge src="nature.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+    {{% image-badge-detail label="Nature - Thinking: 68% Feeling: 32%" details="Thinking individuals focus on objectivity and rationality, prioritizing logic over emotions. They tend to hide their feelings and see efficiency as more important than cooperation" %}} 
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="angular.png" url="https://angular.io/" %}}
+    {{% image-badge src="tactics.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+    {{% image-badge-detail label="Tactics Judging: 23% Prospecting: 77" details="Prospecting individuals are very good at improvising and spotting opportunities. They tend to be flexible, relaxed nonconformists who prefer keeping their options open" %}} 
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="spring.png" url="https://spring.io/" %}}
+    {{% image-badge src="identity.png" url="https://www.16personalities.com/profiles/55a1646936e3d" %}} 
+    {{% image-badge-detail label="Identity Assertive: 44% Turbulent: 56%" details="Turbulent individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic and eager to improve" %}} 
   {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="docker.png" url="https://www.docker.com" %}}
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="chef.png" url="https://kitchen.ci/" %}}
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
-  {{</ list-item >}}
-  {{< list-item >}}
-    {{% image-badge src="google-cloud.png" url="https://cloud.google.com/" %}}
-  {{</ list-item >}}
-{{</ badge-container >}}
+{{</ badge-list >}}

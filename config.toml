@@ -58,11 +58,15 @@ dateFormat="MMM YYYY"
     weight = 1
     url  = "/projects/"
 [[menu.main]]
-    name = "About"
+    name = "Skills"
     weight = 2
-    url = "/about/"
+    url = "/skills/"
+[[menu.main]]
+    name = "Personality"
+    weight = 3
+    url = "/personality/"
 [[menu.main]]
     name = "Contact"
-    weight = 3
+    weight = 4
     url = "/contact/"
 
