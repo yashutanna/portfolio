@@ -1,3 +1,7 @@
-<a class="image-badge" href='{{ .Get "url" }}' target="_blank">
+<a class="image-badge tooltip" href='{{ .Get "url" }}' target="_blank">
+    <div class="top">
+        <strong class="centered">{{.Get "title"}}</strong>
+        <i></i>
+    </div>
   <img class="badge" src='{{.Get "src"}}'/>
 </a>

@@ -19,22 +19,22 @@ In this extremely complex and distributed environment the flow of information is
 ## Which tech was used
 {{< badge-container >}}
   {{< list-item >}}
-    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+    {{% image-badge title="NodeJS" src="node.png" url="https://nodejs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+    {{% image-badge title="ReactJS" src="react.png" url="https://reactjs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="spring.png" url="https://spring.io/" %}}
+    {{% image-badge title="Spring" src="spring.png" url="https://spring.io/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="docker.png" url="https://www.docker.com" %}}
+    {{% image-badge title="Docker" src="docker.png" url="https://www.docker.com" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
+    {{% image-badge title="Gitlab" src="gitlab.png" url="https://about.gitlab.com" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
+    {{% image-badge title="AWS" src="aws.png" url="https://aws.amazon.com" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 

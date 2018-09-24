@@ -16,13 +16,13 @@ With a proliferated view of a client in different product streams within a huge 
 
 {{< badge-container >}}
   {{< list-item >}}
-    {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+    {{% image-badge title="NodeJS" src="node.png" url="https://nodejs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+    {{% image-badge title="ReactJS" src="react.png" url="https://reactjs.org/" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
+    {{% image-badge title="Neo4j" src="neo4j.png" url="https://neo4j.com/" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 
