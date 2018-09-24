@@ -20,6 +20,10 @@
   display: -webkit-inline-box;
 }
 
+a.image-badge:hover{
+  text-decoration: none;
+}
+
 .badge-list ul li .image-badge-detail{
   width: calc(100% - 115px);
 }
