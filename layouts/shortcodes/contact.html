@@ -1,5 +1,5 @@
 <section class="contact-section">
-    <form class="form-style-7" netlify target="_self">
+    <form class="form-style-7" netlify>
         <ul>
             <li>
                 <label for="name">Name</label>
@@ -17,9 +17,9 @@
                 <label for="topic">Message</label>
                 <textarea id="topic" rows="10" cols="70" name="topic"></textarea>
             </li>
+            <div class="msg-error error align-left"></div>
+            <div id="recaptcha" class="g-recaptcha" data-sitekey="6LdruXEUAAAAABEs3QMDpJYaIa27eQOZCkeygyK9"></div>
         </ul>
-        <div class="msg-error error align-left"></div>
-        <div id="recaptcha" class="g-recaptcha" data-sitekey="6LdruXEUAAAAABEs3QMDpJYaIa27eQOZCkeygyK9"></div>
     </form>
     <button id="btn-validate">Submit</button>
 </section>
