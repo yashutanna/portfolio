@@ -4,7 +4,7 @@ title = "Standard Bank - Global Web"
 slug = "global-web" 
 tags = []
 categories = []
-logo = "standard-bank.png"
+logo = "entelect.png"
 +++
 ## What we did
 Build the newest web version of the banking platform for the universal client to the bank

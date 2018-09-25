@@ -4,7 +4,7 @@ title = "Discovery Health - Health ID"
 slug = "Discovery Health" 
 tags = []
 categories = []
-logo = "discovery.png"
+logo = "entelect.png"
 hasUrl = true
 projectUrl = "https://www.discovery.co.za/medical-aid/health-id"
 +++
