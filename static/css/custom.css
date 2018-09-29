@@ -38,12 +38,18 @@ nav.navigation{
   background-color: white;
 }
 
-.badge-list ul li a
+.badge-list ul li img
 {
   display: inline-block;
 }
-.badge-list ul li a img.badge,
-.badge-container ul li a img.badge
+.badge-list ul li a
+{
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.badge-list ul li img.badge,
+.badge-container ul li img.badge
 {
   background-color: black;
   padding: 16px;
@@ -55,8 +61,8 @@ nav.navigation{
 }
 
 @media (max-width: 320px) {
-  .badge-list ul li a img.badge,
-  .badge-container ul li a img.badge
+  .badge-list ul li img.badge,
+  .badge-container ul li img.badge
   {
     height: 90px;
     width: 90px;
@@ -65,8 +71,8 @@ nav.navigation{
 }
 
 @media (min-width: 321px) {
-  .badge-list ul li a img.badge,
-  .badge-container ul li a img.badge
+  .badge-list ul li img.badge,
+  .badge-container ul li img.badge
   {
     height: 70px;
     width: 70px;
@@ -74,8 +80,8 @@ nav.navigation{
   }
 }
 @media (min-width: 322px) {
-  .badge-list ul li a img.badge,
-  .badge-container ul li a img.badge
+  .badge-list ul li img.badge,
+  .badge-container ul li img.badge
   {
     height: 90px;
     width: 90px;

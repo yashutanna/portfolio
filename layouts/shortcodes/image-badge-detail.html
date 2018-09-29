@@ -1,7 +1,9 @@
 <div class="image-badge-detail">
     <!-- <span class="label"> -->
       <h6>
-        {{ .Get "label" }}
+        <a class="image-badge" href='{{ .Get "url" }}' target="_blank">
+          {{ .Get "label" }}
+        </a>
       </h6>
     <!-- </span> -->
     <p>
