@@ -16,7 +16,7 @@ dateFormat="MMM YYYY"
 
 [params]
     author = "Yashu Tanna"
-    info = "Full Stack Developer, Developer Experience Engineer"
+    info = "Software Engineer, Developer Experience Engineer"
     description = "Yashu Tanna's bio site"
     keywords = "blog,developer,experience,engineer"
     avatarurl = "avatar.png"
