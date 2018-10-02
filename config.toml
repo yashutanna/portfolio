@@ -16,10 +16,11 @@ dateFormat="MMM YYYY"
 
 [params]
     author = "Yashu Tanna"
-    info = "Software Engineer, Developer Experience Engineer"
+    info = "Software Engineer"
+    info2 = "Developer Experience Engineer"
     description = "Yashu Tanna's bio site"
     keywords = "blog,developer,experience,engineer"
-    avatarurl = "avatar.png"
+    avatarurl = "yashu.jpeg"
 
     # footercontent = "Enter a text here."
 

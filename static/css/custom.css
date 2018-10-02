@@ -44,9 +44,17 @@ nav.navigation{
 }
 .badge-list ul li a
 {
-  color: black;
+  display: inline;
+  font-size: 1.6rem;
+  font-family: Lato, Helvetica, sans-serif;
+  font-weight: 700;
   text-decoration: underline;
-  font-weight: bold;
+  color: #212121;
+}
+.badge-list ul li a:hover
+{
+  color: #1565c0;
+  text-decoration: underline;
 }
 .badge-list ul li img.badge,
 .badge-container ul li img.badge
@@ -227,4 +235,8 @@ li.list-item a{
 
 .error{
   color: orangered;
+}
+
+h3.info{
+  margin: 0 auto;
 }
