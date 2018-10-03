@@ -17,24 +17,31 @@ Importing goods for any business is a headache. an importer needs to engange wit
 In this extremely complex and distributed environment the flow of information is important. Hence a key piece of work is negotiation and prioritization within the orginisation to effectively coordinate efforts to land this project.
 
 ## Which tech was used
+*click on the badges to see more information about the technology*
 {{< badge-container >}}
   {{< list-item >}}
     {{% image-badge src="node.png" url="https://nodejs.org/" %}}
+    {{% label value="NodeJS" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="react.png" url="https://reactjs.org/" %}}
+    {{% label value="ReactJS" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="spring.png" url="https://spring.io/" %}}
+    {{% label value="Spring" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="docker.png" url="https://www.docker.com" %}}
+    {{% label value="Docker" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="gitlab.png" url="https://about.gitlab.com" %}}
+    {{% label value="Gitlab" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="aws.png" url="https://aws.amazon.com" %}}
+    {{% label value="AWS" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 

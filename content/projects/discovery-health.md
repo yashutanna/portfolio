@@ -19,16 +19,19 @@ Health records include screening data such as blood presure, BMI, etc; chronic c
 
 
 ## Which tech was used
-
+*click on the badges to see more information about the technology*
 {{< badge-container >}}
   {{< list-item >}}
     {{% image-badge src="angular.png" url="https://angular.io/" %}}
+    {{% label value="Angular" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="spring.png" url="https://spring.io/" %}}
+    {{% label value="Spring" %}}
   {{</ list-item >}}
   {{< list-item >}}
     {{% image-badge src="java.png" url="https://www.oracle.com/za/java" %}}
+    {{% label value="Java" %}}
   {{</ list-item >}}
 {{</ badge-container >}}
 
