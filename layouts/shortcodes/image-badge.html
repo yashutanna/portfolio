@@ -1,1 +1,7 @@
-<img class="badge" src='{{.Get "src"}}'/>
+{{if .Get "url"}}
+  <a class="image-badge" href='{{ .Get "url" }}' target="_blank">
+    <img class="badge" src='{{.Get "src"}}'/>
+  </a>
+{{else}}
+  <img class="badge" src='{{.Get "src"}}'/>
+{{end}}

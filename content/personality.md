@@ -30,7 +30,7 @@ Through a lot of introspection and in an effort to better refine my strenghts I 
 {{</ badge-list >}}
 
 ### 16Personalities {{% link href="https://www.16personalities.com/profiles/55a1646936e3d" %}}
-**The Debater:** *Extraverted mind, Intuitive energy, Thinking nature, Prospecting Tactics, Balanced Identity*
+[**The Debater:**](https://www.16personalities.com/profiles/55a1646936e3d) *Extraverted mind, Intuitive energy, Thinking nature, Prospecting Tactics, Balanced Identity*
 {{< badge-list >}}
  {{< list-item >}}
     {{% image-badge src="mind.png" %}} 
