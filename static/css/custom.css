@@ -28,8 +28,15 @@ a.image-badge:hover{
   width: calc(100% - 115px);
 }
 
+@media (max-width: 320px) {
+  .badge-list ul li .image-badge-detail{
+    width: 100%;
+  }
+}
+
 .badge-list ul li .image-badge-detail p,
 .badge-list ul li .image-badge-detail h6{
+  text-align: left;
   margin: 0 auto;
 }
 
@@ -72,9 +79,10 @@ nav.navigation{
   .badge-list ul li img.badge,
   .badge-container ul li img.badge
   {
-    height: 90px;
+    /* height: 90px;
     width: 90px;
-    margin: 0px;
+    margin: 0px; */
+    display: none;
   }
 }
 
