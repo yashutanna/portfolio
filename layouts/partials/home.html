@@ -4,8 +4,13 @@
       <div class="avatar"><img src="{{ . }}" alt="avatar"></div>
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
-    <h3 class="info">{{ .Site.Params.info }}</h3>
-    <h3 class="info">{{ .Site.Params.info2 }}</h3>
+    <section class="rw-wrapper">
+      <div class="rw-words rw-words-1">
+        {{ range .Site.Params.infos }}
+          <span>{{ .label }}</span>
+        {{ end }}
+      </div>
+    </section>
     {{ with .Site.Params.social }}
     <ul>
       {{ range sort .}}
