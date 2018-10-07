@@ -322,3 +322,9 @@ li.shortcode-list-item {
   width: 100%;
 }
 /* end rotating words  */
+
+@media only screen and (max-device-width: 768px){
+  .avatar img {
+      width: 17rem;
+  }
+}
