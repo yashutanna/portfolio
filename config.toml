@@ -21,9 +21,9 @@ dateFormat="MMM YYYY"
         { label = "a developer experience enhancer" },
         { label = "a team member" },
         { label = "a design thinker" },
+        { label = "a technologist" },
         { label = "pragmatic" },
         { label = "a little weird" },
-        { label = "a wrong thinker" },
     ]
     description = "Yashu Tanna's bio site"
     keywords = "blog,developer,experience,engineer"
