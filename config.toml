@@ -20,6 +20,7 @@ dateFormat="MMM YYYY"
         { label = "Sofware Engineer" },
         { label = "Developer Experience Engineer" },
         { label = "Team Member" },
+        { label = "Design Thinker" },
         { label = "Super Pragmatic" },
         { label = "A Little Weird" },
         { label = "Wrong Thinker" },
