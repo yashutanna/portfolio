@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Yashu"
+title = "Yashu Tanna"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,15 +15,15 @@ disqusShortname = "yourdiscussshortname"
 dateFormat="MMM YYYY"
 
 [params]
-    author = "Yashu Tanna"
+    author = "Yashu"
     infos = [
-        { label = "Sofware Engineer" },
-        { label = "Developer Experience Engineer" },
-        { label = "Team Member" },
-        { label = "Design Thinker" },
-        { label = "Super Pragmatic" },
-        { label = "A Little Weird" },
-        { label = "Wrong Thinker" },
+        { label = "a sofware engineer" },
+        { label = "a developer experience enhancer" },
+        { label = "a team member" },
+        { label = "a design thinker" },
+        { label = "pragmatic" },
+        { label = "a little weird" },
+        { label = "a wrong thinker" },
     ]
     description = "Yashu Tanna's bio site"
     keywords = "blog,developer,experience,engineer"
