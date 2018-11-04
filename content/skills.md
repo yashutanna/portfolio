@@ -3,15 +3,15 @@ title = "My style and skills"
 slug = "Skills"
 +++
 
-I am a software engineer that has a passion for people, technology, and businesses where the two meet. 
+I am a software engineer that has a passion for people, technology and businesses where the two meet. 
 
 ## How I work
 
 I enjoy working through complex problems by boiling them down to their core components to understand the underlying problem to be solved.
 
-Bringing my extroverted, ideative, and competitive personality into my work allows me to bring concepts to life through rapid prototyping of malleable thought processes.
+Bringing my extroverted, ideative and competitive personality into my work allows me to bring concepts to life through rapid prototyping of malleable thought processes.
 
-I interact with engineers, designers, product specialists and help align all team members to a common goal by integrating into the core team.
+I interact with engineers, designers, product specialists and assist in aligning all team members to a common goal by integrating into the core team.
 
 
 ## Technologies I've worked with
@@ -59,7 +59,7 @@ I interact with engineers, designers, product specialists and help align all tea
     {{% label value="AWS" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
+    {{% image-badge src="neo4j.png" url="https://neo4j.com/product/#basics/" %}}
     {{% label value="Neo4J" %}}
   {{</ list-item >}}
   {{< list-item >}}

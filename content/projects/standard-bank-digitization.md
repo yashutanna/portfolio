@@ -24,7 +24,7 @@ With a proliferated view of a client in different product streams within a huge 
     {{% label value="ReactJS" %}}
   {{</ list-item >}}
   {{< list-item >}}
-    {{% image-badge src="neo4j.png" url="https://neo4j.com/" %}}
+    {{% image-badge src="neo4j.png" url="https://neo4j.com/product/#basics/" %}}
     {{% label value="Neo4J" %}}
   {{</ list-item >}}
 {{</ badge-container >}}

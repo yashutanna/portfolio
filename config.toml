@@ -17,13 +17,13 @@ dateFormat="MMM YYYY"
 [params]
     author = "Yashu"
     infos = [
-        { label = "a sofware engineer" },
         { label = "a developer experience enhancer" },
         { label = "a team member" },
         { label = "a design thinker" },
         { label = "a technologist" },
         { label = "pragmatic" },
         { label = "a little weird" },
+        { label = "a software engineer" },
     ]
     description = "Yashu Tanna's bio site"
     keywords = "blog,developer,experience,engineer"

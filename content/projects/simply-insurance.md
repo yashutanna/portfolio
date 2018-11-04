@@ -12,7 +12,7 @@ projectUrl = "https://www.simply.co.za"
 Built a config-driven insurance sales portal as well to be used by end clients as well as a call center with the ability for Quality Assurance operators to vet calls.
 
 ## Why we did it
-The insurance market in South Africa did not provide an easy way for a lower- to mid- SME person to apply for insurance. Simply at the time was a small fintech startup that needed a solid platform to bring in sales with as much configurability to be able to move fast and change things on the fly.
+The insurance market in South Africa did not provide an easy way for a lower- to mid- SME person to apply for insurance. Simply, at the time was a small fintech startup that needed a solid platform to bring in sales with as much configurability to be able to move fast and change things on the fly.
 
 Simply also provides a quick an easy way for Employers to purchase life cover for their Domestic workers
 
