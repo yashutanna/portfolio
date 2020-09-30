@@ -5,6 +5,7 @@ slug = "simply"
 tags = []
 categories = []
 logo = "entelect.png"
+logo2 = "simply.svg"
 hasUrl = true
 projectUrl = "https://www.simply.co.za"
 +++

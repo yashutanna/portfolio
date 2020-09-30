@@ -2,10 +2,16 @@
   <h1 class="title">{{ .Title }}</h1>
   <ul>
     {{ range .Paginator.Pages }}
-    <li class="list-item">
-        <span>{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
-        <img class="list-logo" src='{{ .Params.logo }}'/>
-        <a href="{{ .URL }}">{{ .Title }}</a>
+    <li class="list-item" style="margin-top: 16px">
+        <div class="logo-container">
+          <img class="list-logo" src='{{ .Params.logo }}' alt="logo"/>
+          {{ if .Params.logo2 }}
+            <img class="list-logo" src='{{ .Params.logo2 }}' alt="logo"/>
+          {{ end }}
+        </div>
+        <div class="link-container">
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </div>
     </li>
     {{ end }}
   </ul>

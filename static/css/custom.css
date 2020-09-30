@@ -1,3 +1,11 @@
+.list ul {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.list ul li {
+  flex: 1 !important;
+}
+
 .badge-list ul,
 .badge-container ul
 {
@@ -106,15 +114,23 @@ nav.navigation{
 }
 
 li.list-item{
-  height: 48px;
-  display: inline-block;
+  display: flex;
   vertical-align: middle;
 }
 
+li.list-item .logo-container{
+  display: flex;
+  justify-content: space-between;
+  width: 100px
+}
+li.list-item .link-container{
+  display: flex;
+  align-self: center;
+}
+
 li.list-item img.list-logo{
-  width: 25px;
-  position: absolute;
-  z-index: -1;
+  width: 40px;
+  margin: 5px;
 }
 
 li.list-item a{
