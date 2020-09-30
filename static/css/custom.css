@@ -119,13 +119,16 @@ li.list-item{
 }
 
 li.list-item .logo-container{
+  flex: 1;
   display: flex;
-  justify-content: center;
-  width: 100px
+  max-width: 100px;
+  justify-content: flex-end;
 }
 li.list-item .link-container{
+  flex: 1;
   display: flex;
   align-self: center;
+  justify-content: flex-start;
 }
 
 li.list-item img.list-logo{
