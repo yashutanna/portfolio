@@ -120,7 +120,7 @@ li.list-item{
 
 li.list-item .logo-container{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   width: 100px
 }
 li.list-item .link-container{
@@ -130,6 +130,7 @@ li.list-item .link-container{
 
 li.list-item img.list-logo{
   width: 40px;
+  height: 40px;
   margin: 5px;
 }
 
